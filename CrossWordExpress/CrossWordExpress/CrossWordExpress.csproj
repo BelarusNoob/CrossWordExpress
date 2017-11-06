@@ -1,0 +1,170 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{1504B4B7-109B-45F2-9350-72D2AFAE5856}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <RootNamespace>CrossWordExpress</RootNamespace>
+    <AssemblyName>CrossWordExpress</AssemblyName>
+    <TargetFrameworkVersion>v4.5.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <AutoGenerateBindingRedirects>true</AutoGenerateBindingRedirects>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup>
+    <ApplicationIcon>BlackInk.ico</ApplicationIcon>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.DirectoryServices" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="AboutAuthor.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="AboutAuthor.Designer.cs">
+      <DependentUpon>AboutAuthor.cs</DependentUpon>
+    </Compile>
+    <Compile Include="CrosswordForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="CrosswordForm.Designer.cs">
+      <DependentUpon>CrosswordForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Grid.cs" />
+    <Compile Include="Crossword\Crossword.cs" />
+    <Compile Include="HelpUser.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="HelpUser.Designer.cs">
+      <DependentUpon>HelpUser.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MainForm.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MainForm.Designer.cs">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Other.cs" />
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="AboutAuthor.resx">
+      <DependentUpon>AboutAuthor.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="CrosswordForm.resx">
+      <DependentUpon>CrosswordForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="HelpUser.resx">
+      <DependentUpon>HelpUser.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MainForm.resx">
+      <DependentUpon>MainForm.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493902105_add-circle-outline.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493902157_icon-folder.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493087841_BT_save.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493902247_aiga_information.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493902198_user_male2.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493904069_document_text_add.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493904112_delete.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\Crossword-512.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493220271_Streamline-38.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\1493220271_Streamline-381.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="BlackInk.ico" />
+    <None Include="Resources\5.jpg" />
+    <None Include="Resources\4.jpg" />
+    <None Include="Resources\31.jpg" />
+    <None Include="Resources\2.jpg" />
+    <None Include="Resources\1.jpg" />
+    <None Include="Resources\if_print_172530.png" />
+    <None Include="Resources\foto8.jpg" />
+    <None Include="Resources\foto7.jpg" />
+    <None Include="Resources\foto6.jpg" />
+    <None Include="Resources\foto5.jpg" />
+    <None Include="Resources\foto4.jpg" />
+    <None Include="Resources\3.jpg" />
+    <None Include="Resources\foto2.jpg" />
+    <None Include="Resources\BNlogo.png" />
+    <None Include="Resources\1496937226_facebook.png" />
+    <None Include="Resources\vk.png" />
+    <None Include="Resources\1496761768_back-alt.png" />
+    <None Include="Resources\1496635996_play_player_start_button_control_media.png" />
+    <None Include="Resources\1496635735_medical_icon_5.png" />
+    <None Include="Resources\1496634376_files-folders-44.png" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

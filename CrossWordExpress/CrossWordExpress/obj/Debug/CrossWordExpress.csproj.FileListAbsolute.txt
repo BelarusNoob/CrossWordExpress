@@ -1,0 +1,58 @@
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe.config
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.pdb
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.Properties.Resources.resources
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.GenerateResource.Cache
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.exe
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.pdb
+D:\Students\Практика\Приложение новое\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.MainForm.resources
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe.config
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.pdb
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.MainForm.resources
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.Properties.Resources.resources
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.GenerateResource.Cache
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.exe
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.pdb
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.CrosswordForm.resources
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csprojResolveAssemblyReference.cache
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.AboutAuthor.resources
+D:\Students\Практика\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.HelpUser.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe.config
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.pdb
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csprojResolveAssemblyReference.cache
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.AboutAuthor.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.CrosswordForm.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.HelpUser.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.MainForm.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.Properties.Resources.resources
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.GenerateResource.Cache
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.exe
+D:\Students\Практика\Мое\Кроссворд\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.pdb
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe.config
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.pdb
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csprojResolveAssemblyReference.cache
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.AboutAuthor.resources
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.CrosswordForm.resources
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.HelpUser.resources
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.MainForm.resources
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.Properties.Resources.resources
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.GenerateResource.Cache
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.CoreCompileInputs.cache
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.exe
+C:\Users\Никита\OneDrive\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.pdb
+D:\Students\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe.config
+D:\Students\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.exe
+D:\Students\CrossWordExpress\CrossWordExpress\bin\Debug\CrossWordExpress.pdb
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csprojResolveAssemblyReference.cache
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.AboutAuthor.resources
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.CrosswordForm.resources
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.HelpUser.resources
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.MainForm.resources
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.Properties.Resources.resources
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.GenerateResource.Cache
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.csproj.CoreCompileInputs.cache
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.exe
+D:\Students\CrossWordExpress\CrossWordExpress\obj\Debug\CrossWordExpress.pdb
